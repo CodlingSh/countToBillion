@@ -1,0 +1,1 @@
+# This is a dummy file to test if adding a second file counts as a contribution
